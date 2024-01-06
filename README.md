@@ -1,10 +1,6 @@
 
-  __  __ ___      _   _  ___  _  ___  _   _ _  _ ___ ___ 
- |  \/  | _ \___ /_\ | |/ / || |/ _ \| | | | \| |   \_ _|
- | |\/| |   /___/ _ \| ' <| __ | (_) | |_| | .` | |) | | 
- |_|  |_|_|_\  /_/ \_\_|\_\_||_|\___/ \___/|_|\_|___/___|
-                                                         
               ** ** ** ** ** ** ** ** **
+	      Web developer & Pentester Server and Host
 			Web   : www.mr-akhoundi.ir
 			Email : info@mr-akhoundi.ir
 			Manager : Mohammad Akhoundi
